@@ -5,38 +5,28 @@ A game-element is something that a game has in a vary quantity. Each element in 
 - Ability to defind
 - Ability to sustain damage
 - Frequency of Combat
-
 - Opponent Difficulty
 - Opponent Numbers
-
 - Avatar Development
 - Avatar Relationship Development
-
 - Competition
-
 - Destructible Environment
 - Navigating the World
 - World Freedom
-
 - Narrative Choice
 - Narrative Importance
 - Role Playing
-
 - Sphere of Influence
-
 - Pacing
 - Time
-
 - Symmetry
-
 - Realism
 - Visual Realism
-
 - Player Tactics
 
 ---
 ## Counterattacks
-A counterattack is a tactic employed in response to an attack. The general objective is to negate or thwart the advantage gained by the enemy during attack, whilst the specific objectives typically seek to regain lost ground or destroy the attacking enemy.[1]
+A counterattack is a tactic employed in response to an attack. The general objective is to negate or thwart the advantage gained by the enemy during attack, whilst the specific objectives typically seek to regain lost ground or destroy the attacking enemy.[[1]](http://en.wikipedia.org/wiki/Counterattack)
 
 ### Attacking is not an element of this game.
 This game does not feature combat in any form and therefore cannot include counterattacks.
@@ -66,10 +56,7 @@ These games have no direct attack element. You can't attack the other player unl
 
 #### Examples:
 - Missile Command - the player can only shoot down incoming missiles. The player has no ability to launch an attack of their own.
-- 
 
-
-[1][http://en.wikipedia.org/wiki/Counterattack]
 ---
 ### Mechanics
 A game mechanic is something that directly influences gameplay and how the player participates in the game.
@@ -77,7 +64,6 @@ A game mechanic is something that directly influences gameplay and how the playe
 How the player receives feedback about how the game is progressing and the result of their actions.
 ### Themes
 ### Setting
-
 
 ---
 # Loneliness
@@ -107,7 +93,6 @@ David Theurer - Atari, 1980, [link]()
 This element ties into the core theme of missile command. Survival of a nuclear war isn't possible; it's just a matter of time before you lose. The player can shoot down incoming missiles but cannot launch their own attack. It's futile and the only option.
 
 ## Game Mechanics
-
 
 ---
 # Game Template
