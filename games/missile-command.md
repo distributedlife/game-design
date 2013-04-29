@@ -1,5 +1,7 @@
 # Missile Command
-David Theurer - Atari, 1980, [link]()
+![](http://upload.wikimedia.org/wikipedia/en/8/86/A5200_Missile_Command.png)
+ 
+David Theurer - Atari, 1980
 
 ## Theme
 ## Setting
