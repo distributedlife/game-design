@@ -13,6 +13,7 @@ Abstract
 ## Player Skills
 
 ## Game Elements
-- Counterattacks - Attacking is not an element of this game
+### [Counterattacks](http://localhost:4567/elements#Counterattacks)
+Attacking is not an element of this game
 
 ## Game Mechanics
