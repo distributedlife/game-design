@@ -12,7 +12,7 @@ There are six different points along this spectrum:
 
 Effectiveness does not always refer to damage caused. An ineffective attack might be one that wastes too much time or other resource.
 
-### Attacking is not an element of this game.
+### Attacking is not an element of this game
 This game does not feature combat in any form and therefore cannot include counterattacks.
 
 ###### Examples
