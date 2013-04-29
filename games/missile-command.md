@@ -10,8 +10,9 @@ David Theurer - Atari, 1980
 
 ## Game Elements
 ### [Counterattacks](/elements#Counterattacks)
-This element ties into the core theme of missile command. Survival of a nuclear war isn't possible; it's just a matter of time before you lose. **Only counterattacks are effective** as the player can shoot down incoming missiles but cannot launch their own attack. It's futile and one can only counter for so long.
+This element ties into the core theme of missile command. Survival of a nuclear war isn't possible; **Attacking is not an element of this game** it's just a matter of time before you lose.
 
-TODO: or is this defence?
+### [Defence](/elements#Defence)
+This element ties into the core theme of missile command. Survival of a nuclear war isn't possible; it's just a matter of time before you lose. **No attacks are possible; only defence exists** as the player can shoot down incoming missiles but cannot launch their own attack. It's futile and one can only defend for so long.
 
 ## Game Mechanics
