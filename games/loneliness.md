@@ -13,7 +13,10 @@ Abstract
 ## Player Skills
 
 ## Game Elements
-### [Counterattacks](/elements#Counterattacks)
-Attacking is not an element of this game
+### [Counterattacks](/elements/counterattack)
+Attacking is not an element of this game.
+
+### [Defence](/elements/defence)
+No defence.
 
 ## Game Mechanics
