@@ -11,7 +11,7 @@ Might and Delight, 2012
 ## Player Skills
 
 ## Game Elements
-### Counterattacks
+### [Counterattacks](/elements#Counterattacks)
 Pid is a game that uses counterattacks to increase difficulty. The game starts off with **No ability to counterattack** where normal opponents have to be defeated by direct attacks. The first mini boss, the dog toy, can have it's missiles turned back on itself. This is **Counterattacking is equally effective to direct attacks** before the larger bosses are **Only counterattacks are effective** and Pid has to get the boss to start his attack before Pid can get close enough to attack.
 
 
