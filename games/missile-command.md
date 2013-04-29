@@ -9,7 +9,8 @@ David Theurer - Atari, 1980
 ## Player Skills
 
 ## Game Elements
-### Counterattacks: the player can only deal damage through counterattack
+### [Counterattacks](/elements#Counterattacks)
+###### Only counterattacks are effective
 
 This element ties into the core theme of missile command. Survival of a nuclear war isn't possible; it's just a matter of time before you lose. The player can shoot down incoming missiles but cannot launch their own attack. It's futile and the only option.
 
