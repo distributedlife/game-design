@@ -20,10 +20,10 @@ The player is unable to defend and any successful attacks reduce the player's he
 - [Missile Command](/games/missile-command)
 
 ### Defence has limited effect; favour direct attack
-Any defence mechanic where the player is still better of engaging in a direct attack is ineffective. An example may be the defence can stop some damage but given enough attacks the defending player will still be beaten down.  
+Any defence mechanic where the player is still better of engaging in a direct attack is ineffective. An example may that the game provides cover for the player to hide from opponents but the player has to leave the safety of cover and engage in direct attacks to progress.
 
 ###### Examples
-- derp
+- [Pid](/games/pid)
 
 ### The player must mix defence and attack equally
 Derp
@@ -36,11 +36,13 @@ Derp
 - [Gears of War 2](/games/gears-of-war-2)
 
 ### All attacks should be made from defence
-
+Derp
 ###### Examples
+- Derp
 
 ### No attacks are possible; only defence exists
 The players only hope is to neutralise attacks or to have sufficient cover to resist the attacks.
 
 ###### Examples
 - [Missile Command](/games/missile-command) - the player can only shoot down incoming missiles. The player has no ability to launch an attack of their own.
+- [Pid](/games/pid) - The floating blue balls can't be defeated. The player has to use the environment to provide cover.
