@@ -16,6 +16,7 @@ The effectiveness of defence is not necessarily related to the damage stopped. E
 The player is unable to defend and any successful attacks reduce the player's health.
 
 ###### Examples
+- [Loneliness](/games/loneliness)
 - [Missile Command](/games/missile-command)
 
 ### Defence has limited effect; favour direct attack
