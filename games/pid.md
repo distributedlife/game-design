@@ -1,13 +1,14 @@
 # Pid
 [![](http://www.pidgame.com/img/screenshots/Pid_Screenshot_attic_2.jpg)](http://www.pidgame.com/)
 
-Might and Delight, 2012
+Might and Delight, 2011
 
 ## Theme
 
 ## Setting
 
 ## Gameplay Feedback
+
 ## Player Skills
 
 ## Game Elements
