@@ -1,5 +1,5 @@
 ## Defence
-How much emphasis is put on the need for a player to defend. Defence could be through action (block, avoidance or shooting down an attack), through equipment (a shield) or the environment (cover). How the defence is achieved is not important; more how effective it is and how often it must be employed. A counterattack (shooting down a missile) is not considered a defence.
+How much emphasis is put on the need for a player to defend. Defence could be through action (block, avoidance or shooting down an attack), through equipment (a shield) or the environment (cover). How the defence is achieved is not important; it is more how effective it is and how often it must be employed.
 
 There are five points along this spectrum:
 
