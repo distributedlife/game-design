@@ -19,7 +19,6 @@ The resource can sustain a number of hits before it has been completely depleted
 A limited recovery system where it isn't possible to regenerate back to full capacity. This could be done by a reduction in the total resource capacity or by having resource recovery kits (i.e. medkit) return only a proportion of the depleted capacity.
 
 ###### Examples
-- [XCOM Enemy Unknown](/games/xcom-enemy-unknown) - TODO: how this works.
 - [Left 4 Dead](/games/left-4-dead) - Each medkit returns 80% of your health.
 - [F1](/games/f1) - Damage to your car can't always be fixed
 
@@ -28,8 +27,8 @@ A full recovery system is one where it's possible to return the resource to full
 
 ###### Examples
 - [Super Mario Brothers](/games/super-mario-brothers) - Mario can always eat a mushroom to get himself up to full size.
-- [Quake](/games/quake) - Both health and armour resources can be restored to their full amount.
-- [Half Life](/games/half-life) - Both health and armour resources can be restored to their full amount.
+- [Quake](/games/quake) - All resources health, ammo and shield can be restored to their full amount.
+- [Left 4 Dead](/games/left-4-dead) - Ammo can be restored to it's full capacity.
 
 ### Regeneration system
 A regeneration system is one where the resource has the capacity to regenerate or renew itself. This often happens over time but will restore the resource to full capacity.
