@@ -40,3 +40,7 @@ TODO: Find a home for this.
 ## Idea - unreleated to damage reduces effectiveness
 ### Health as a tradable resources
 Health is not often considered a [tradeable resource](/examples/tradeable-resource). But it is possible to trade health for something like a [positional advantage](/elements/position-advantage). Or, in a card game the player might be able to discard reflex cards (to get out of the way) or shield cards (to block the attack) but if neither are available or the player values them more then health cards can be discarded (accepting the hit).
+
+
+It'd be interesting tying the health mechanic to other things too. Like currency, or NPC interactions.
+Or stealth. Maybe it's harder to blend into the crowd and seem like a bystander if you've clearly had the fuck kicked out of you
