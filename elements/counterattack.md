@@ -1,5 +1,5 @@
-## Counterattacks
-A counterattack is a tactic employed in response to an attack. The general objective is to negate or thwart the advantage gained by the enemy during attack, whilst the specific objectives typically seek to regain lost ground or destroy the attacking enemy &mdash; [Wikipedia](http://en.wikipedia.org/wiki/Counterattack).
+# Counterattacks
+A counterattack is an attempt to regain initiative after losing it to an opponents attack. A counterattack could at the least trying to reset the initiative or trying to launch an attack that will reverse initiative into advantage.
 
 There are six different points along this spectrum:
 
