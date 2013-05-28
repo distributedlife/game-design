@@ -29,6 +29,7 @@ A full recovery system is one where it's possible to return the resource to full
 - [Super Mario Brothers](/games/super-mario-brothers) - Mario can always eat a mushroom to get himself up to full size.
 - [Quake](/games/quake) - All resources health, ammo and shield can be restored to their full amount.
 - [Left 4 Dead](/games/left-4-dead) - Ammo can be restored to it's full capacity.
+- [Pid](/games/pid) - All resources (except star) can be restored to full amount.
 
 ### Regeneration system
 A regeneration system is one where the resource has the capacity to regenerate or renew itself. This often happens over time but will restore the resource to full capacity.
