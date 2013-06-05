@@ -58,6 +58,15 @@ The resource depletion agents are also similar with the addition of 'use'.
 
 
 ## Resource Capacity
+Every resource has, initially, a capacity. The capacity is different from quantity and represents the maximum potential quantity. The capacity influences how much of a resource can exist in any one place.
+
+Capacity is one of the following:
+- Fixed - the capacity never increases or decreases.
+- Contracts - the capacity can decrease but never increases.
+- Expands - the capacity can expand but never decrease.
+- Contracts & Expands - the capacity can expand and contract.
+
+The capacity is a positive number or infinity.
 
 
 # Resource Damage Model
