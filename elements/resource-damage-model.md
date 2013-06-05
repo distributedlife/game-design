@@ -37,6 +37,25 @@ The unit is the result of a growth agent. Here are the resource growth options:
 - **Resource** - A different resource is traded to make this resource grow. I can trade 1 coin for 5 wood.
 - **Action** - An actor's action causes the resource to grow e.g. 'summon cats' or 'lay on hands'
 
+### Examples
+###### Nothing
+- [Don't Starve](/games/dont-starve) - items when used are worn out.
+- [Bit.TRIP Runner](/games/bit.trip-runner) - the player can never acquire more health
+
+###### Time
+- [Gears of War 2](/games/gears-of-war-2) - The player's health regenerates to full.
+- [Missile Command](/games/missile-command) - The player can only fire missile so fast. This cooldown between shots is the resource regenerating.
+
+###### Place
+- [F1](/games/f1) - Damage to your car can be fixed in the pits.
+
+###### Resource
+- [Super Mario Brothers](/games/super-mario-brothers) - Mario can  eat a mushroom to get himself up to full size (health).
+- [Left 4 Dead](/games/left-4-dead) - 80% of health can be restored by using a medkit.
+
+###### Action
+- [Eye of the Beholder](/games/eye-of-the-beholder) - The Paladin's 'lay on hands' increases health in another.
+
 
 ## Resource Depletion
 As exciting as resource growth is, resource depletion is more common due to 'using' resources. The resource depletion rates options are the same for resource growth.
@@ -56,17 +75,38 @@ The resource depletion agents are also similar with the addition of 'use'.
 - **Action** - An actor's action causes the resource to deplete e.g. moving reduces energy.
 - **Use** - A resource can be used and in the process consuming it. I cat eat some meat or I can trade health to stay alive.
 
+### Examples
+###### Nothing
+###### Time
+###### Place
+###### Resource
+###### Action
+###### Use
 
 ## Resource Capacity
 Every resource has, initially, a capacity. The capacity is different from quantity and represents the maximum potential quantity. The capacity influences how much of a resource can exist in any one place.
 
 Capacity is one of the following:
-- Fixed - the capacity never increases or decreases.
-- Contracts - the capacity can decrease but never increases.
-- Expands - the capacity can expand but never decrease.
-- Contracts & Expands - the capacity can expand and contract.
+- **Fixed** - the capacity never increases or decreases.
+- **Contracts** - the capacity can decrease but never increases.
+- **Expands** - the capacity can expand but never decrease.
+- **Fluid** - the capacity can both expand and contract.
 
-The capacity is a positive number or infinity.
+The capacity is either zero, a positive number or infinity.
+
+### Examples
+###### Fixed
+- [Quake](/games/quake) - All resources: health, ammo and shield can be restored to their full amount.
+- [Left 4 Dead](/games/left-4-dead) - Ammo can be restored to it's full capacity.
+- [Pid](/games/pid) - All resources (except star) can be restored to full amount.
+
+###### Contracts
+F1 - car damage
+
+###### Expands
+
+###### Fluid
+Dont Starve - carry capacity
 
 
 # Resource Damage Model
@@ -82,39 +122,25 @@ The following steps along the spectrum exist:
 ### Fixed number of units
 The resource can sustain a number of hits before it has been completely depleted. A special case is when the number is one which results in a **touch is death** situation
 
-###### Examples
-- [Bit.TRIP Runner](/games/bit.trip-runner) - If the player touches any part of the world the run ends.
-- [Missile Command](/games/missile-command) - Each of the cities the player must defend represent 'health'.
-
 ### Limited recovery system
 A limited recovery system where it isn't possible to regenerate back to full capacity. This could be done by a reduction in the total resource capacity or by having resource recovery kits (i.e. medkit) return only a proportion of the depleted capacity.
 
 ###### Examples
 - [Left 4 Dead](/games/left-4-dead) - Each medkit returns 80% of your health.
-- [F1](/games/f1) - Damage to your car can't always be fixed
 
 ### Full recovery system
 A full recovery system is one where it's possible to return the resource to full capacity.
 
 ###### Examples
 - [Super Mario Brothers](/games/super-mario-brothers) - Mario can always eat a mushroom to get himself up to full size.
-- [Quake](/games/quake) - All resources health, ammo and shield can be restored to their full amount.
-- [Left 4 Dead](/games/left-4-dead) - Ammo can be restored to it's full capacity.
-- [Pid](/games/pid) - All resources (except star) can be restored to full amount.
 
 ### Regeneration system
 A regeneration system is one where the resource has the capacity to regenerate or renew itself. This often happens over time but will restore the resource to full capacity.
-
-###### Examples
-- [Gears of War 2](/games/gears-of-war-2) - The player's health regenerates to full.
 
 
 ### Invulnerability / No damage model
 This can feature as a buff during a game (invulnerability in Quake I) or where the resource can never expire. This is common in games where the player cannot die.
 
-###### Examples
-- [Loneliness](/games/loneliness) - No damage model
-- [Quake](/games/quake) - Invulnerability mode
 
 ## Ideas
 ### Transition
