@@ -60,7 +60,7 @@ The unit is the result of a growth agent. Here are the resource growth options:
 ## Resource Depletion
 As exciting as resource growth is, resource depletion is more common due to 'using' resources. The resource depletion rates options are the same for resource growth.
 
-- **Never grows** - This resource never depletes
+- **Never depletes** - This resource never depletes
 - **Geometric** - 1 coin for 1 unit
 - **Logarithmic** - 10 coin for 1 unit, 100 coin for 2 units
 - **Fibonnaci** - 1,2,3,5,8,13... 13 coin for 6 unit, 21 coin for 7 unit.
